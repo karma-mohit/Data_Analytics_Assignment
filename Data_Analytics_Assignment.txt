@@ -1,0 +1,43 @@
+Q1. Differentiate between data and information?
+    data unstructured or information is structured.
+
+Q2. How data is useful for us?
+    with the help of data we can analyse everything make in good result.
+
+Q3. what is big data?
+    Big Data is a collection of data that is huge in volume, yet growing exponentially with time.
+
+Q4. Difference between structured, unstructured and semistructured?
+    STRUCTURED :: Structured data is data whose elements are addressable for effective analysis. 
+    It has been organized into a formatted repository that is typically a database. 
+
+    SEMISTRUCTURED :: Semi-structured data is information that does not reside in a 
+    relational database but that has some organizational properties that make it easier to analyze. 
+
+    UNSTRUCTURED DATA :: Unstructured data is a data which is not organized in a predefined manner 
+    or does not have a predefined data model,thus it is not a good fit for a mainstream relational database.
+
+Q5. what are quantitive and qualitive data?
+    Quantitative data are measures of values or counts and are expressed as numbers. 
+    Quantitative data are data about numeric variables (e.g. how many; how much; or how often).
+    Qualitative data are measures of 'types' and may be represented by a name, symbol, or a number code.
+
+Q6. what are the 5 v's of big data?
+    Big data is a collection of data from many different sources and is often describe by five characteristics:
+    volume, value, variety, velocity, and veracity.
+
+Q6. name some popular tools in big data?
+    Apache Spark.
+    Apache Hadoop.
+    Apache Flink.
+    Google Cloud Platform. 
+    MongoDB.
+    Sisense.
+    RapidMiner.
+
+Q7. What are different types of data? Explain.
+    The data is classified into majorly four categories:
+    1.Nominal data
+    2.Ordinal data
+    3.Discrete data
+    4.Continuous data
