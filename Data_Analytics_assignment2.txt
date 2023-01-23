@@ -1,0 +1,38 @@
+Q 1. What is the difference between descriptive vs inferential statistics?
+ans: Descriptive Statistics gives information about raw data regarding its description or features.
+     (ex: sharemarket ups and down every minutes and seconds.more acurate) 
+     Inferential statistics, on the other hand, draw inferences about the population by using data extracted from the population.
+     (ex: election results on the basis of polls analysis, less acurate)
+
+Q 2. Difference between populations and sample?
+ans: populations = population means total number of population for example we found covid vaccine in usa where total number of population 
+     is 30 cr and we give results on the behalf of sample only 40000. so this is the basic difference between population and sample.
+
+Q 3. What is hypothesys? Difference between null and alternate hypothesys?
+ans: Hypothesys simply means to made an assumptions on the basis of the comparing two datasets whether they are same or different on comparing.
+     There are two types:
+     1. Null Hypothesys : when there is no significant difference between comparing of two datasets.so there is null hypothesys.
+     2. Alternate Hypothesys : when there is a significant difference between comparing of two datasets. so there is alternate hypothesys.
+     If Null hypothesys accepted alternate hypothesys rejected.
+     And if null hypothesys rejected alternate hypothesys accepted.
+
+Q 4. What is central limit theorem in statistics?
+ans: The central limit theorem says that the sampling distribution of the mean will always be normally distributed, as long as the sample size is large enough.
+
+Q 5. What is difference between type 1 and type 2 errors?
+ans: You decide to get tested for COVID-19 based on mild symptoms. There are two errors that could potentially occur:
+     Type I error (false positive): the test result says you have coronavirus, but you actually don’t.
+     Type II error (false negative): the test result says you don’t have coronavirus, but you actually do. 
+
+Q 6. What is linear regression?
+ans: Linear regression analysis is used to predict the value of a variable based on the value of another variable.
+
+Q 7. what are the assumptions required for linear regressions?
+ans: Linear regression is an analysis that assesses whether one or more predictor variables explain the dependent (criterion) variable. 
+     The regression has five key assumptions:
+
+     Linear relationship
+     Multivariate normality
+     No or little multicollinearity
+     No auto-correlation
+     Homoscedasticity
